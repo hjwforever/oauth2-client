@@ -1,5 +1,7 @@
-# OAuth2-Client-Demo
+# OAuth2-SSO-Jwt-Server Project
+The Client Project for the OAuth2-SSO-Jwt-Server Project
 
+## Steps
 1. Run the  [**Server Project**](https:/github.com/hjwforever/oauth2-jwt-sso-server)
 2. Run **[this Project](https:/github.com/hjwforever/oauth2-client)**
 3. Visit `http://localhost:8081/user/getCurrentUser`
