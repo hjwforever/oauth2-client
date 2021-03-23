@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "oauth2-servere-url",
+      "type": "java.lang.String",
+      "description": "Description for oauth2-servere-url."
+  }
+] }
